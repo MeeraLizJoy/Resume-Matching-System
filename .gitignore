@@ -1,0 +1,4 @@
+resum-venv/
+backend/GoogleNews-vectors-negative300.bin
+.DS_Store
+frontend/node_modules/
